@@ -98,7 +98,7 @@ Built high-performance frontend pages using Next.js and AMP, improving Google Pa
 
 ## 📫 Let's Work Together
 
-I'm available for **freelance projects** during **9PM – 6AM IST** (perfect for UK & US clients).
+I'm available for **freelance projects**.
 
 - 💼 Full Stack Web Applications
 - 🔌 REST API Development & Integration
