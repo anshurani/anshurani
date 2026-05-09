@@ -20,7 +20,6 @@ I've shipped production-grade platforms across **healthtech**, **travel**, and *
 - 🔭 Currently working with **Next.js, Node.js, PostgreSQL & Gemini AI**
 - 🌱 Learning **Docker & Container-based Deployments**
 - 💬 Ask me about **React, Next.js, Node.js, Ruby on Rails, REST APIs, PostgreSQL**
-- ⚡ Available for freelance: **9PM – 6AM IST** (UK & US business hours)
 
 ---
 
